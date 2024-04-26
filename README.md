@@ -5,7 +5,7 @@
 - Interested in SDL, OpenGL and the WinApi.
 - I am more of a generalist than a specialist.
 - Building game engines is cool.
-- Other skills: 3D modeling, Unity, some substance painter and a splashing of Japanese on the side (日本語大丈夫ですが、私はまずいです).
+- Other skills: 3D modeling, Unity, some substance painter and a splash of Japanese on the side (日本語は少しだけ話せますが頑張ります。）
 
 - Things that I am currently learning/trying to improve on.
 
